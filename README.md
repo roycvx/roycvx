@@ -40,5 +40,42 @@ Mi área de programación se inclina por el lado backend a gusto personal y por 
 
 
 ### Redes sociales
+<p align="left"> 
+  <a href="https://www.github.com/roycvx" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" 
+      />
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
+      />
+      <img 
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" 
+        width="32" 
+        height="32" 
+        alt="GitHub" 
+      /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/roycoronado" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" 
+      /> 
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
+      />
+      <img 
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" 
+        width="32" 
+        height="32" 
+        alt="LinkedIn" 
+      /> 
+    </picture> 
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/roycvx" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/roycoronado" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
