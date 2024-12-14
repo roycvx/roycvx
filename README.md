@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ---------------------------------
 
 Soy un chico apasionado por la informática y la programación, me gusta aprender y poner en practica lo aprendido, actualmente soy estudiante de Desarrollo de Software interesado en mejorar mis habilidades en la resolución de problemas y programación.
+Mi área de programación se inclina por el lado backend a gusto personal y por lo tanto dentro de mis intereses.
 
 * 🌍  Soy de Panamá
 * 🧠  Actualmente estoy aprendiendo Python🐍
